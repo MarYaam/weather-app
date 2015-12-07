@@ -1,5 +1,5 @@
-pwd
-ire 'yahoo_weatherman'
+
+require 'yahoo_weatherman'
 
 puts "Please enter your 5 digit zipcode: "
 zip_code = gets.chomp
